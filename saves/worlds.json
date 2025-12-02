@@ -1,0 +1,34 @@
+{
+  "worlds": [
+    {
+      "name": "New World",
+      "folder": "New_World",
+      "seed": 882839308,
+      "created": "2025-11-30T16:50:53.310976",
+      "last_played": "2025-11-30T16:50:53.310976",
+      "screenshot": "screenshot.png",
+      "game_mode": "Creative",
+      "difficulty": 2
+    },
+    {
+      "name": "New World",
+      "folder": "New_World_1",
+      "seed": 786360354,
+      "created": "2025-11-30T19:29:25.578550",
+      "last_played": "2025-11-30T19:29:25.578550",
+      "screenshot": "screenshot.png",
+      "game_mode": "Creative",
+      "difficulty": 3
+    },
+    {
+      "name": "New World",
+      "folder": "New_World_2",
+      "seed": 825311947,
+      "created": "2025-12-01T15:47:09.186595",
+      "last_played": "2025-12-01T15:47:09.186595",
+      "screenshot": "screenshot.png",
+      "game_mode": "Survival",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "position": {
+    "x": 0.0,
+    "y": 19.00067901611328,
+    "z": 0.0
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": -0.09127560257911682,
+    "z": 0.0
+  },
+  "orientation": {
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "on_ground": true,
+  "health": 20.0,
+  "hunger": 20.0,
+  "saturation": 5.0,
+  "hotbar": {
+    "slots": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "selected": 0
+  },
+  "inventory": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
